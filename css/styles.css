@@ -370,7 +370,7 @@ Header
         gap: 10px;
         justify-content: center;
         padding-left: 0;
-        padding-top: 16px;
+        margin-top: 16px;
     }
     .socials-link{
      display: flex;
@@ -380,7 +380,7 @@ Header
      height: 44px;
      background-color: var(--main-bcg-cl);
      border-radius: 50%; 
-     color: var(--grey-txt-cl); 
+     color: #AFB1B8; 
     }
 
     .socials-icon{
@@ -417,7 +417,7 @@ width: 170px;
 height: 92px;
 border: 1px solid #AFB1B8;
 border-radius: 4px;
-color: var(--grey-txt-cl);
+color: #AFB1B8;;
 }
 
 .clients-icon{
@@ -501,6 +501,7 @@ color: var(--grey-txt-cl);
         justify-content: center;
         color: var(--light-txt-cl);
         border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.1);;
 }
 .socials:hover,
 .socials:focus{
